@@ -1,0 +1,15 @@
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/bin/Debug/net7.0/Lesson1
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/bin/Debug/net7.0/Lesson1.deps.json
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/bin/Debug/net7.0/Lesson1.runtimeconfig.json
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/bin/Debug/net7.0/Lesson1.dll
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/bin/Debug/net7.0/Lesson1.pdb
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.csproj.AssemblyReference.cache
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.AssemblyInfoInputs.cache
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.AssemblyInfo.cs
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.csproj.CoreCompileInputs.cache
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.dll
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/refint/Lesson1.dll
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.pdb
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/Lesson1.genruntimeconfig.cache
+/Users/phmalavazi/Documents/repos/study/solid/ClassAndObjects/Lesson1/obj/Debug/net7.0/ref/Lesson1.dll

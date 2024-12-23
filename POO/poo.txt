@@ -1,0 +1,9 @@
+Programcao orientada a objetos
+
+1) Encapsulamento - permite ocultar a implementacao de uma classe ao mundo externo
+
+2) Heranca - permite herdar atributos e comportamentos de uma classe
+
+3) Polimorfismo - permite que o objeto se comporte de formas diferentes
+
+4) Abstracao - é o processo de identificacao dos objetos e seus relacionamentos

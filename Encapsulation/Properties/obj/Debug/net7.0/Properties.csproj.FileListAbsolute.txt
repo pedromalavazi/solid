@@ -1,0 +1,15 @@
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.csproj.AssemblyReference.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.AssemblyInfoInputs.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.AssemblyInfo.cs
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.csproj.CoreCompileInputs.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/bin/Debug/net7.0/Properties
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/bin/Debug/net7.0/Properties.deps.json
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/bin/Debug/net7.0/Properties.runtimeconfig.json
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/bin/Debug/net7.0/Properties.dll
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/bin/Debug/net7.0/Properties.pdb
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.dll
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/refint/Properties.dll
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.pdb
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/Properties.genruntimeconfig.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/Properties/obj/Debug/net7.0/ref/Properties.dll

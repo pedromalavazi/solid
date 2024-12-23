@@ -1,0 +1,14 @@
+Modificadores de acesso
+
+public: 
+    - nao existe restricao de acesso.
+
+private:
+    - acesso para membros da mesma classe.
+
+protected:
+    - acesso para mesma classe e classes herdeiras.
+
+protected internal
+
+private protected
