@@ -1,0 +1,15 @@
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/bin/Debug/net7.0/DomainModel
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/bin/Debug/net7.0/DomainModel.deps.json
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/bin/Debug/net7.0/DomainModel.runtimeconfig.json
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/bin/Debug/net7.0/DomainModel.dll
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/bin/Debug/net7.0/DomainModel.pdb
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.csproj.AssemblyReference.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.AssemblyInfoInputs.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.AssemblyInfo.cs
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.csproj.CoreCompileInputs.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.dll
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/refint/DomainModel.dll
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.pdb
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/DomainModel.genruntimeconfig.cache
+/Users/phmalavazi/Documents/repos/study/solid/Encapsulation/DomainModel/obj/Debug/net7.0/ref/DomainModel.dll
